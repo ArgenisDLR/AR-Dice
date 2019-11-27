@@ -6,7 +6,7 @@ Changing the way we play Dice by introducing AR to the mix.
 
 ![](images/img.gif)  
 
-### TECH STACK 
+### Tech Stack
 
 - ARKit
 - SceneKit
